@@ -15,6 +15,7 @@ If you choose to complete more than one challenge, you only need to record one v
 
 Write a Ruby program that defines a variable that stores an Integer. The program should print out the String "even" if the Integer is even, and the String "odd" if the Integer is odd.
 
+
 ## Medium
 
 Using the following variables:
