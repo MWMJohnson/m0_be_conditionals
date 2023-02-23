@@ -9,13 +9,15 @@
 # - Show that the program works as intended by running the code (you should run the code more than once to prove it works for all logic paths)
 # - Share a challenge or question you had when you solved it the first time
 
-## Mild
+# If you choose to complete more than one challenge, you only need to record one video for your small group.
 
-## Write a Ruby program that defines a variable that stores an Integer. The program should print out the String "even" if the Integer is even, and the String "odd" if the Integer is odd.
+# ## Mild
 
-age = 30
+# Write a Ruby program that defines a variable that stores an Integer. The program should print out the String "even" if the Integer is even, and the String "odd" if the Integer is odd.
+
+age = 49
 if age.odd? == true
     puts "odd"
-else 
+else
     puts "even"
 end
